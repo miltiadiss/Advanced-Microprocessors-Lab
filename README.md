@@ -5,9 +5,9 @@ For the execution of the exercises we use **ATmega4808-4809** microprocessor. Th
 ![Στιγμιότυπο οθόνης 2024-05-18 021937](https://github.com/miltiadiss/Microcontrollers-Lab/assets/45690339/74a185d1-9dab-45d0-9276-00794b18dc8c)
 
 We have chosen to simulate the function of the following "smart" appliances:
-* Traffic Lights
-* Robot vacuum
-* Fan
-* Greenhouse
+* **Traffic Lights**: Exercise 1
+* **Robot vacuum**: Exercise 2
+* **Fan**: Exercise 3
+* **Greenhouse**: Exercise 4
   
 * **Programming Language and Environment**: C, Microchip Studio.
