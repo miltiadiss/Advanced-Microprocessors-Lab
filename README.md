@@ -11,4 +11,5 @@ We have chosen to simulate the function of the following "smart" appliances:
 * **Fan**: Exercise 3
 * **Greenhouse**: Exercise 4
   
-* **Programming Language and Environment**: C, Microchip Studio.
+
+**Programming Language and Environment**: C, Microchip Studio.
