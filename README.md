@@ -4,7 +4,7 @@ For the execution of the exercises we use **ATmega4808-4809** microprocessor. Th
 
 ![Στιγμιότυπο οθόνης 2024-05-18 021937](https://github.com/miltiadiss/Microcontrollers-Lab/assets/45690339/74a185d1-9dab-45d0-9276-00794b18dc8c)
 
-For this course we will be using *TCA0* timer-counter in both single and split mode (or *TCB0*, *TCB1*). Also, **PORTF(PFn)** will be used to indicate input signal and **PORTD(PDn)** will be the output signal.
+For this course we will be using *TCA0* timer-counter in both single and split mode (or *TCB0*, *TCB1*). Also, **PORTF(PFn)** will be used to simulate the input signal that indicates an interrupt (most commonly it simulates the press of a button) and **PORTD(PDn)** will be the output signal.
 We have chosen to simulate the function of the following "smart" appliances:
 * **Traffic Lights**: Exercise 1
 * **Robot vacuum**: Exercise 2
