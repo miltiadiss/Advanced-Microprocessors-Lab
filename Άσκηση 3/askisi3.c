@@ -14,7 +14,7 @@ int x=0;
 int press_button = 0; // Μετρητής για την αποθήκευση των φορών που πατιέται το κουμπί
 
 void setup_TCA0_split(int PER_low, int CMP_low){
-	TCA0.SPLIT.CTRLD = TCA_SPLIT_SPLITM_bm; // Ενεργοποιούμε το Split Mode για τον TCA
+	TCA0.SPLIT.CTRLD = TCA_SPLIT_ENABLE_bm; // Ενεργοποιούμε το Split Mode για τον TCA
 	TCA0.SPLIT.CTRLA = TCA_SPLIT_CLKSEL_DIV1024_gc;	// Χρήση παράγοντα διαίρεσης 1024 
 	TCA0.SPLIT.CTRLB |= TCA_SINGLE_WGMODE_SINGLESLOPE_gc; // Ενεργοποίηση δημιουργίας κυματομορφών
 	
