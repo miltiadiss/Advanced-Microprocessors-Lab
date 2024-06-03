@@ -15,3 +15,5 @@ We have chosen to simulate the function of the following "smart" appliances:
   
 
 **Programming Language and Environment**: C, Microchip Studio.
+
+For further information you can take a look in the code and the technical report that are provided for each exercise.
