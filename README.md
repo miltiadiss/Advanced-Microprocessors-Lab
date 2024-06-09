@@ -3,7 +3,7 @@ These reports are part of **Advanced Microprocessors** compulsory Lab course in 
 
 For the execution of the exercises we will be using **ATmega4808-4809** microcontroller. The main goal is to program the microcontroller in such way that we can simulate the function of some "smart" appliances and devices.  
 
-Below we can see the block diagram of the microprocessor:
+Below we can see the block diagram of the microcontroller:
 
 ![Στιγμιότυπο οθόνης 2024-05-18 021937](https://github.com/miltiadiss/Microcontrollers-Lab/assets/45690339/74a185d1-9dab-45d0-9276-00794b18dc8c)
 
