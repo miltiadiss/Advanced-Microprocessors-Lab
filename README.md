@@ -1,7 +1,7 @@
 # Overview
 These reports are part of **Advanced Microprocessors** compulsory Lab course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8).  
 
-For the execution of the exercises we will be using **ATmega4808-4809** microprocessor. The main goal is to program the microprocessor in such way that we can simulate the function of some "smart" appliances and devices.  
+For the execution of the exercises we will be using **ATmega4808-4809** microcontroller. The main goal is to program the microprocessor in such way that we can simulate the function of some "smart" appliances and devices.  
 
 Below we can see the block diagram of the microprocessor:
 
